@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: delete-last-comma
-Version: 0.1.0
+Version: 0.1.2
 Summary: json形式文字列中のいわゆるケツカンマを削除する
 Home-page: https://github.com/anaakikutushita/delete_last_comma
 Author: Atsushi Suzuki

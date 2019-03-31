@@ -12,7 +12,7 @@ with open('LICENSE') as f:
 
 setup(
     name='delete_last_comma',
-    version='0.1.1',
+    version='0.1.2',
     description='json形式文字列中のいわゆるケツカンマを削除する',
     long_description=readme,
     author='Atsushi Suzuki',
